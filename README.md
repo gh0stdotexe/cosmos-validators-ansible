@@ -149,6 +149,7 @@ ansible-playbook support_tenderduty.yml -e "target=juno_tenderduty key=junovalco
 | Passage       | Yes     |         | 156         |
 | Quicksilver   |         | Yes     | 111         |
 | Secret        |         |         | 171         |
+| Sentinel      |         |         | 172         |
 | Sifchain      | Yes     |         | 132         |
 | Sommelier     | Yes     |         | 141         |
 | Sei           |         | Yes     | 119         |
